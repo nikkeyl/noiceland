@@ -187,9 +187,9 @@ p {
     color: #000;
 }
 
-.logo {
-    min-width: 8.4375rem;
-    min-height: 1.0625rem;
+.logo img {
+    width: 8.4375rem;
+    height: 1.0625rem;
 }
 
 .news {
