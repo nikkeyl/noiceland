@@ -455,6 +455,7 @@ p {
 
 .footer__top {
     display: flex;
+    flex-wrap: wrap;
     align-items: flex-end;
     gap: 0.9375rem;
     border-bottom: 0.0625rem solid #4D4D4D;
